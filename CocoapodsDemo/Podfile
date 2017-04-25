@@ -1,0 +1,9 @@
+platform :ios, '7.0'
+
+target 'CocoapodsDemo' do
+
+pod 'AFNetworking', '~>3.0.4'
+pod 'MBProgressHUD', '~> 0.9.1'
+
+
+end
